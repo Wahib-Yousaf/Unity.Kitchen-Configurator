@@ -1,0 +1,14 @@
+# Unity.Kitchen-Configurator
+My first UPA project with SkillsCity (a Kitchen Configurator with realistic appliance renders)
+
+Codes to use in Git Bash:
+
+"cd" 'points-to' the folder you want to open/select on your PC. Use this to find the local repository folder.
+"ls" (mac)/"dir" (win) 'shows all folders and files it contains'.
+"git branch" checks/shows-you WHICH BRANCH of your local repository you have 'currently selected' (i.e. an Asterisk (*) means that's the HEAD, the one you're currently targeting.)
+"git checkout" or "git switch" followed by the Branch Name lets you change to the BRANCH that you want to 'add and commit changes to'.
+"git status" shows any 'Untracked & Uncommitted' changes in RED text; shows 'Committed but Unpushed' changes, or 'Committed & Pushed' changes in GREEN text.
+"git add ." (i.e. git, add, full-stop) ADDS the command for the GitHub Remote repository to TRACK ALL local changes recently made to the local repository folder and files on your PC.
+"git commit -m "message" 'commits/saves a checkpoint' or lets GitHub know, that there are 'changes Ready to be Pushed' to the REMOTE repository.
+"git push" pushes all recent commits to the REMOTE repository on GitHub.
+"git pull" allows you to update your LOCAL repository on your PC, with 'all recent commits' to the Remote repository, by your team Collaborators.
