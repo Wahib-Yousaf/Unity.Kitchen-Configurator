@@ -1,85 +1,26 @@
 fileFormatVersion: 2
-guid: ee1bf8a760c7df0409cdabd9a991e491
+guid: 51cb7c8c54a09e8428d8debdf9019a46
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: CabinetBase011
-    100002: //RootNode
-    100004: Countertop
-    100006: DoorArched03
-    100008: DoorArched04
-    100010: DrawerShaker009
-    100012: DrawerShaker012
-    100014: RusticCollectionKnob02
-    100016: RusticCollectionKnob03
-    100018: RusticCollectionPull03
-    100020: RusticCollectionPull04
-    400000: CabinetBase011
-    400002: //RootNode
-    400004: Countertop
-    400006: DoorArched03
-    400008: DoorArched04
-    400010: DrawerShaker009
-    400012: DrawerShaker012
-    400014: RusticCollectionKnob02
-    400016: RusticCollectionKnob03
-    400018: RusticCollectionPull03
-    400020: RusticCollectionPull04
+    100000: //RootNode
+    400000: //RootNode
     2100000: Walnut_Wood
-    2100002: Bronze
-    2100004: GraniteSlab
-    2300000: CabinetBase011
-    2300002: Countertop
-    2300004: DoorArched03
-    2300006: DoorArched04
-    2300008: DrawerShaker009
-    2300010: DrawerShaker012
-    2300012: RusticCollectionKnob02
-    2300014: RusticCollectionKnob03
-    2300016: RusticCollectionPull03
-    2300018: RusticCollectionPull04
-    3300000: CabinetBase011
-    3300002: Countertop
-    3300004: DoorArched03
-    3300006: DoorArched04
-    3300008: DrawerShaker009
-    3300010: DrawerShaker012
-    3300012: RusticCollectionKnob02
-    3300014: RusticCollectionKnob03
-    3300016: RusticCollectionPull03
-    3300018: RusticCollectionPull04
-    4300000: CabinetBase011
-    4300002: RusticCollectionPull03
-    4300004: RusticCollectionPull04
-    4300006: RusticCollectionKnob03
-    4300008: RusticCollectionKnob02
-    4300010: DoorArched04
-    4300012: DoorArched03
-    4300014: DrawerShaker012
-    4300016: DrawerShaker009
-    4300018: Countertop
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: KitchenScene_Full:CabinetBaseEndCap02
     9500000: //RootNode
   externalObjects:
   - first:
       type: UnityEngine:Cubemap
       assembly: UnityEngine.CoreModule
       name: diffuse_cube
-    second: {fileID: 8900000, guid: 6b6cdbe80e27fc840b483c54b9c7bebe, type: 3}
+    second: {fileID: 8900000, guid: 9eba7d23df7984644af467536a81b204, type: 3}
   - first:
       type: UnityEngine:Cubemap
       assembly: UnityEngine.CoreModule
       name: specular_cube
-    second: {fileID: 8900000, guid: ee1c7d4193a070f45ac9b6b7b7541be8, type: 3}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Bronze
-    second: {fileID: 2100000, guid: 63eed1efa00dc3645b4098d0e265184b, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: GraniteSlab
-    second: {fileID: 2100000, guid: 095e264097f526e418f3f77f834d27f6, type: 2}
+    second: {fileID: 8900000, guid: 6162b03267daace4aa227cd1b06e0669, type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -88,28 +29,23 @@ ModelImporter:
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
-      name: GraniteAL
-    second: {fileID: 2800000, guid: a970a50bd9ac39a44bfb3704dbb270f8, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
       name: WoodCherryNR
-    second: {fileID: 2800000, guid: e502963e21580e44883caf458ec3658e, type: 3}
+    second: {fileID: 2800000, guid: 363837f8016923f4599273f87bee70c0, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: WoodWalnutAL
-    second: {fileID: 2800000, guid: ab5c929ef97dba340b90f41b5d2af616, type: 3}
+    second: {fileID: 2800000, guid: 0b5e1052a189b684da798c504d62c9f8, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: WoodWalnutME
-    second: {fileID: 2800000, guid: 3131e7dbb28f5fd408425fcac44fe812, type: 3}
+    second: {fileID: 2800000, guid: a782d9ef3998fed45a94503ac6bba062, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: WoodWalnutRO
-    second: {fileID: 2800000, guid: f5c52c1239c5e3d44ae86d180c3a4add, type: 3}
+    second: {fileID: 2800000, guid: f1390adef6fe9e34285607f747dd9d6f, type: 3}
   materials:
     importMaterials: 1
     materialName: 1
@@ -164,7 +100,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
